@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "60W43eg6Upg=",
+  "success": true,
+  "projectFilePath": "D:\\Assignment\\assignment\\Backend\\AssignmentAPI\\AssignmentAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jiraw\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\jiraw\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source http://10.7.55.104:9002/v3/index.json.",
+      "projectPath": "D:\\Assignment\\assignment\\Backend\\AssignmentAPI\\AssignmentAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Assignment\\assignment\\Backend\\AssignmentAPI\\AssignmentAPI.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
